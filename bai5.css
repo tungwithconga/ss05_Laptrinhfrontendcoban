@@ -1,0 +1,12 @@
+.container{
+    font-family: sans-serif;
+    background-color: rgb(245, 245, 217);
+    border-left: 10px solid rgb(201, 201, 47);
+    height: 260px;
+    padding: 20px;
+}
+h2{
+    color: rgba(28, 117, 225, 0.763);
+    font-family: sans-serif;
+
+}
